@@ -33,7 +33,7 @@ elyx_dashboard/
 3. If an Error Page is encountered> Click on Return to Home
 4. If the above steps do not work then try to follow the following steps(Installation and Setup) and then return this step.
  
-## 🛠️ Installation & Setup
+## Installation & Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/elyx-healthcare-dashboard.git
@@ -73,5 +73,5 @@ Contributions are welcome! Please fork the repo and create a pull request.
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
