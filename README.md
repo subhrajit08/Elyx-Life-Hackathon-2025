@@ -4,7 +4,7 @@ Elyx Healthcare Dashboard is a web-based application built with **React** and **
 
 ---
 
-## 🚀 Features
+## Features
 - Interactive **dashboard** for healthcare KPIs
 - Visualization of **patient records and trends**
 - **Mock data integration** for demo purposes
@@ -13,7 +13,7 @@ Elyx Healthcare Dashboard is a web-based application built with **React** and **
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 elyx_dashboard/
   ├── .storage/               # Stored versions of components and mock data
@@ -61,14 +61,14 @@ elyx_dashboard/
 
 ---
 
-## 📊 Usage
+## Usage
 - Navigate through the dashboard to view healthcare analytics.
 - The data is currently based on **mockData.ts** for demonstration.
 - Replace mock data with API endpoints or real datasets for production use.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Please fork the repo and create a pull request.
 
 ---
