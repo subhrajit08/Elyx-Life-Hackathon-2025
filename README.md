@@ -36,8 +36,8 @@ elyx_dashboard/
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/subhrajit08/elyx-healthcare-dashboard.git
-   cd elyx-healthcare-dashboard
+   git clone https://github.com/subhrajit08/elyx-life-hackathon-2025.git
+   cd elyx-life-hackathon-2025
    ```
 
 2. Install dependencies:
